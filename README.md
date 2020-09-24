@@ -31,11 +31,11 @@ Precision(PPV, positive predictive value): tp / (tp + fp); Total number of true 
 Recall(sensitivity, hit rate, true positive rate): tp / (tp + fn) Predict most postive or churn user correctly. High recall means low fn, not many churn users were predicted as return users.
 
 <p align="center">
-  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Logistic -Regression.png">
+  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Random-Forest.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Logistic -Regression.png">
+  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Logistic-Regression.png">
 </p>
 
 * Finally, we can get the ROC curve to evaluate the models.
