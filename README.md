@@ -41,10 +41,10 @@ Recall(sensitivity, hit rate, true positive rate): tp / (tp + fn) Predict most p
 * Finally, we can get the ROC curve to evaluate the models.
 
 <p align="center">
-  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/ROC-Random -Forest">
+  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/ROC-Random-Forest">
 </p>
 
 <p align="center">
-  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/ROC-LR -Forest">
+  <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/ROC-LR">
 </p>
 
