@@ -2,7 +2,7 @@
 
 
 
-<a href="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/Telecommunication_Industry_Forecast_of_Customer_Churn.ipynb">highly recommended to click this link to see more detail of what I have done about this project!!!</a>
+<a href="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/Telecommunication_Industry_Forecast_of_Customer_Churn.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!!!</a>
 
 
 In this project, I use many supervised learning models to identify customers who are likely to stop using the service in the future. Furthermore, I will analyze the top factors that influence user retention.
