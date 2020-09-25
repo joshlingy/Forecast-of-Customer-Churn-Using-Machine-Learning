@@ -16,12 +16,16 @@ In this project, I use many supervised learning models to identify customers who
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/total_intl_charge.png">
 </p>
 
+![](graphs/total_intl_charge.png)
+
+
 * By using the Pearson correlation coefficient to analyze feature importance and rank key features that affect the probability of the churn
 
 <p align="center">
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/correlations.png">
 </p>
 
+![](graphs/correlations.png)
 
 * The use of many algorithms, such as Logistic Regression, K-Nearest Neighbors and Random Forest, for the telecom company to help forecast the churn probability in Python
 
@@ -29,9 +33,13 @@ In this project, I use many supervised learning models to identify customers who
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Random-Forest.png">
 </p>
 
+![](graphs/Random-Forest.png)
+
 <p align="center">
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Logistic -Regression.png">
 </p>
+
+![](graphs/Logistic -Regression.png)
 
 * Confusion Matrix (Precision, Recall, Accuracy)
 TP: correctly labeled real churn
@@ -42,9 +50,13 @@ Recall(sensitivity, hit rate, true positive rate): tp / (tp + fn) Predict most p
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Random-Forest.png">
 </p>
 
+![](graphs/Random-Forest.png)
+
 <p align="center">
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/Logistic-Regression.png">
 </p>
+
+![](graphs/Logistic-Regression.png)
 
 * Finally, we can get the ROC curve to evaluate the models.
 
@@ -52,7 +64,11 @@ Recall(sensitivity, hit rate, true positive rate): tp / (tp + fn) Predict most p
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/ROC-Random-Forest.png">
 </p>
 
+![](graphs/ROC-Random-Forest.png)
+
+
 <p align="center">
   <img src="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/graphs/ROC-LR.png">
 </p>
 
+![](graphs/ROC-LR.png)
