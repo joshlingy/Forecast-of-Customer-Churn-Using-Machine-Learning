@@ -2,7 +2,7 @@
 
 
 
-<a href="https://github.com/joshlingy/Forecast-of-Customer-Churn-Using-Machine-Learning/blob/master/Forecast-of-Customer-Churn-Using-Machine-Learning.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
+<a href="https://github.com/joshlingy/Forecast-of-Customer-Churn-Using-Machine-Learning/blob/master/Forecast_of_Customer_Churn_Using_Machine_Learning.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
 
 ** Please reload it if something went wrong on the page. **
 
