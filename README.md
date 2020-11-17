@@ -1,8 +1,8 @@
-# Telecommunication Industry Forecast of Customer Churn
+# Forecast of Customer Churn Using Machine Learning
 
 
 
-<a href="https://github.com/joshlingy/Telecommunication-Industry-Forecast-of-Customer-Churn/blob/master/Telecommunication_Industry_Forecast_of_Customer_Churn.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
+<a href="https://github.com/joshlingy/Forecast-of-Customer-Churn-Using-Machine-Learning/blob/master/Forecast-of-Customer-Churn-Using-Machine-Learning.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
 
 ** Please reload it if something went wrong on the page. **
 
